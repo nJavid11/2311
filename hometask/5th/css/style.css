@@ -1,0 +1,43 @@
+.ulname{
+    margin-left: 50px;
+}
+.emphstate{
+    margin-left: 84px;
+}
+.zipcountry{
+    margin-left: 71px;
+}
+#ps{
+    margin-left: 62px;
+}
+#rps{
+    margin-left: 13px;
+}
+#fname{
+    margin-left: 51px;
+}
+#str{
+    margin-left: 87px;
+}
+#cty{
+    margin-left: 96px;
+}
+#sta{
+    margin-left: 92px;
+}
+#ls{
+    margin-left: 53px;
+}
+button{
+    color: white;
+    background-color: red;
+    width: 85px;
+    height: 40px;
+    margin-left: 170px;
+}
+input{
+    border-color: rgb(89, 185, 89);
+}
+hr{
+    border-color: rgb(216, 216, 216);
+}

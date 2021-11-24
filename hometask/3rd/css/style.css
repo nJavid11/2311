@@ -1,0 +1,43 @@
+button{
+    color: white;
+    background-color: blue;
+    height: 40px;
+    width: 105px;
+}
+h3{
+    margin-left: 250px; 
+}
+.big{
+    margin-left: 165px;
+    padding: 6px;
+    width: 630px;
+}
+.smalltwo{
+    margin-left: 25px;
+    padding: 6px;
+    width: 293px; 
+}
+#occupation{
+    margin-left: 25px;
+    padding: 6px;
+    width: 308px; 
+}
+#zipcode{
+    margin-left: 25px;
+    padding: 6px;
+    width: 293px; 
+}
+.small{
+    margin-left: 165px;
+    padding: 6px;
+    width: 293px;
+}
+#country{
+    width: 310px;
+}
+.others{
+    margin-left: 165px;
+}
+fieldset{
+    background-color: rgb(243, 243, 243);
+}

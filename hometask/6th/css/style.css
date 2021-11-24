@@ -1,0 +1,18 @@
+#color1{
+    color: green;
+}
+#color2 {
+    color: red;
+}
+#color3 {
+    color:rgb(112, 63, 224)
+}
+
+#color4 {
+    color: red; 
+    background-color: rgba(43, 176, 238, 0.924);    
+}
+#text{
+    color: rgb(250, 250, 7);
+    background-color: rgb(126, 126, 126);
+}
